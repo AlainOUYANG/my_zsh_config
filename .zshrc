@@ -86,19 +86,6 @@ plugins=(
 
 # DEFAULT_USER="YOUR_NAME"
 
-alias atom='/Applications/Atom.app/Contents/MacOS/Atom'
-alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
-
-# Personal alias for pandoc TeX to PDF files for my thesis
-alias pandoctex2pdf4thesis='pandoc --filter pandoc-citeproc --bibliography=/Users/Ouyangzuokun/Desktop/These\ preparation/BibTeX/Collections.bib --csl=/Users/Ouyangzuokun/Desktop/These\ preparation/BibTeX/computing-surveys.csl --latex-engine=xelatex --template=/Users/Ouyangzuokun/Desktop/These\ preparation/BibTeX/template.latex'
-
-# Perl config
-PATH="/Users/Ouyangzuokun/perl5/bin${PATH:+:${PATH}}"; export PATH;
-PERL5LIB="/Users/Ouyangzuokun/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
-PERL_LOCAL_LIB_ROOT="/Users/Ouyangzuokun/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
-PERL_MB_OPT="--install_base \"/Users/Ouyangzuokun/perl5\""; export PERL_MB_OPT;
-PERL_MM_OPT="INSTALL_BASE=/Users/Ouyangzuokun/perl5"; export PERL_MM_OPT;
-
 # zsh syntax highlighting & autosuggestions
 HOMEBREW_FOLDER="/usr/local/share"
 source "$HOMEBREW_FOLDER/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
