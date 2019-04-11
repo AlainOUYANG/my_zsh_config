@@ -84,7 +84,7 @@ plugins=(
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 . ~/.bash_profile
 
-DEFAULT_USER="Ouyangzuokun"
+# DEFAULT_USER="YOUR_NAME"
 
 alias atom='/Applications/Atom.app/Contents/MacOS/Atom'
 alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
