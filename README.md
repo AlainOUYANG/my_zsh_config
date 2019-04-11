@@ -55,3 +55,6 @@
 8. 替换 .zshrc 文件
 
 	去我的 [Github](https://github.com/AlainOUYANG/my_zsh_config) 下载 .zshrc 文件，复制第 89 行（包含）之后的内容，粘贴到你的 .zshrc 中去。
+
+最终效果：
+![](https://ws2.sinaimg.cn/large/006tNc79gy1g1z5ul36zgj31b80rudly.jpg)
