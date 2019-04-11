@@ -17,7 +17,7 @@
 
 	[这里](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)有一篇非常好的讲解如何安装 zsh 的文章。
 3. 安装 [oh-my-zsh](https://ohmyz.sh) 插件
-	![](DraggedImage.tiff)
+	![](https://ohmyz.sh/img/OMZLogo_BnW.png)
 
 	复制这一行到你的命令行窗口，然后静静等待它运行完毕就可以了：
 
@@ -37,7 +37,7 @@
 	打开「字体册」这个 App，将解压好的字体全部拖进去，Mac 会自动为你安装好所有的字体。
 
 	打开 iTerm2，打开 Preference，选择 Profile，选一个你自己的 Profile（默认是 Default），选择 Text 栏，在 Font 中选择刚刚安装的 Meslo 字体（注意这里应该是 Nerd Font Complete），调整适合自己的字体大小。选号字体之后，勾选「Use a different font for non-ASCII text」和「Anti-aliased」，之后会出现「Non-ASCII Font」这个选项，点击选择 Melso 字体，同样勾选「Anti-aliased」。
-	![](%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-04-11%2015.58.39.png)
+	![](![](https://ws3.sinaimg.cn/large/006tNc79gy1g1z4jy6pysj319b0u07ko.jpg))
 6. 为 iTerm2 安装 Material Design Theme
 
 	根据 [Material Design Theme](https://github.com/MartinSeeler/iterm2-material-design) 进行下载安装。
