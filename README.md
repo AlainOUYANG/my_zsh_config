@@ -52,4 +52,4 @@
 	```
 8. 替换 .zshrc 文件
 
-	去我的 [Github](https://github.com/AlainOUYANG/my_zsh_config) 下载 .zshrc 文件，将其替换你自己的 .zshrc 文件（或者复制然后替换），在第 83 行，去掉注释，将引号中间的内容改为你的用户名称。
+	去我的 [Github](https://github.com/AlainOUYANG/my_zsh_config) 下载 .zshrc 文件，将其替换你自己的 .zshrc 文件（或者复制然后替换），在第 87 行，去掉注释，将引号中间的内容改为你的用户名称。
